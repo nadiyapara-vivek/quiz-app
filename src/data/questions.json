@@ -1,0 +1,62 @@
+[
+{
+"question":"What is React?",
+"options":["JavaScript Library","Database","Programming Language","Framework"],
+"answer":"JavaScript Library",
+"explanation":"React is a JavaScript library used to build user interfaces, especially single-page applications."
+},
+{
+"question":"Which company created React?",
+"options":["Google","Facebook","Microsoft","Apple"],
+"answer":"Facebook",
+"explanation":"React was created by Facebook (now Meta) in 2013 to build fast and interactive user interfaces."
+},
+{
+"question":"Which hook is used for state?",
+"options":["useState","useFetch","useData","useUpdate"],
+"answer":"useState",
+"explanation":"useState is a React Hook that allows functional components to store and update state."
+},
+{
+"question":"React is mainly used for?",
+"options":["Backend","User Interfaces","Database","Networking"],
+"answer":"User Interfaces",
+"explanation":"React is designed for building interactive user interfaces in web applications."
+},
+{
+"question":"JSX stands for?",
+"options":["Java Syntax XML","JavaScript XML","JSON XML","Java Extend"],
+"answer":"JavaScript XML",
+"explanation":"JSX allows developers to write HTML-like syntax inside JavaScript code."
+},
+{
+"question":"Which hook runs after render?",
+"options":["useEffect","useState","useData","useMemo"],
+"answer":"useEffect",
+"explanation":"useEffect runs after a component renders and is used for side effects like fetching data."
+},
+{
+"question":"React apps are made using?",
+"options":["Components","Classes","Modules","Packages"],
+"answer":"Components",
+"explanation":"React applications are built using reusable components."
+},
+{
+"question":"Which command creates React app?",
+"options":["create-react-app","react-new","react-create","start-react"],
+"answer":"create-react-app",
+"explanation":"create-react-app is a tool used to quickly create a new React project."
+},
+{
+"question":"Props are used for?",
+"options":["Passing data","Styling","Routing","Database"],
+"answer":"Passing data",
+"explanation":"Props allow data to be passed from one component to another."
+},
+{
+"question":"Which hook handles side effects?",
+"options":["useEffect","useState","useFetch","useRef"],
+"answer":"useEffect",
+"explanation":"useEffect is used to handle side effects like API calls, timers, or DOM updates."
+}
+]
